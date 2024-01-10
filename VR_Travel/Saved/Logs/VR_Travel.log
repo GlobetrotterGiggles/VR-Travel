@@ -1655,3 +1655,79 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.09-17.36.30:657][339]AssetCheck: New page: Asset Save: WB_MainMenu
 [2024.01.09-17.36.30:657][339]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_MainMenu.WB_MainMenu
 [2024.01.09-17.46.28:579][872]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:10.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-18.05.31:527][575]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.01.09-18.05.31:539][575]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.09-18.05.31:553][575]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.09-18.05.31:581][576]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.09-18.05.41:881][189]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Dialogue_Box
+[2024.01.09-18.05.41:887][189]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.09-18.05.44:481][341]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Dialogue_Box.WB_Dialogue_Box
+[2024.01.09-18.05.44:481][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-18.05.44:481][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-18.05.44:494][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.09-18.05.44:494][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.09-18.06.50:167][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.09-18.06.50:171][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.029
+[2024.01.09-18.06.50:172][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Dialogue_Box] ([2] browsable assets)...
+[2024.01.09-18.06.50:175][950]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Dialogue_Box.WB_Dialogue_Box]
+[2024.01.09-18.06.50:175][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Dialogue_Box]
+[2024.01.09-18.06.50:175][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Dialogue_Box" FILE="D:/GitHub/VR-Travel/VR_Travel/Saved/Autosaves/Game/UI/WB_Dialogue_Box_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.01.09-18.06.50:178][950]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Dialogue_Box_Auto8
+[2024.01.09-18.06.50:178][950]LogSavePackage: Moving 'D:/GitHub/VR-Travel/VR_Travel/Saved/WB_Dialogue_Box_Auto82C63653649871B3EC519ACB817953FAA.tmp' to 'D:/GitHub/VR-Travel/VR_Travel/Saved/Autosaves/Game/UI/WB_Dialogue_Box_Auto8.uasset'
+[2024.01.09-18.06.50:179][950]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.09-18.15.46:207][559]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.09-18.15.46:207][559]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.09-18.24.40:641][162]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.09-18.46.27:698][ 82]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:09.195 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-19.46.28:600][883]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:10.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-20.46.27:699][678]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:09.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-21.46.27:696][476]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:09.192 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-22.46.28:498][276]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:09.993 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.09-23.46.27:679][ 72]LogDerivedDataCache: C:/Users/pulak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:09.174 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 36255 files in 37422 folders with total size 5968 MiB.
+[2024.01.10-00.00.54:452][667]LogViewport: Scene viewport resized to 1271x786, mode Windowed.
+[2024.01.10-00.00.55:008][668]LogViewport: Scene viewport resized to 1271x745, mode Windowed.
+[2024.01.10-00.04.38:788][163]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.10-00.04.38:884][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.10-00.05.30:812][956]BlueprintLog: New page: Compile WB_MainMenu
+[2024.01.10-00.05.30:866][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.10-00.05.31:539][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-00.05.31:584][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_MainMenu" FILE="D:/GitHub/VR-Travel/VR_Travel/Content/UI/WB_MainMenu.uasset" SILENT=true
+[2024.01.10-00.05.31:595][986]LogSavePackage: Moving output files for package: /Game/UI/WB_MainMenu
+[2024.01.10-00.05.31:596][986]LogSavePackage: Moving 'D:/GitHub/VR-Travel/VR_Travel/Saved/WB_MainMenu94A7DEF94EF761856F907EB9237A9E2F.tmp' to 'D:/GitHub/VR-Travel/VR_Travel/Content/UI/WB_MainMenu.uasset'
+[2024.01.10-00.05.31:611][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 955 ms)
+[2024.01.10-00.05.31:621][986]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.01.10-00.05.31:621][986]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_MainMenu.WB_MainMenu
+[2024.01.10-00.06.16:992][155]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.06.29:532][660]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.06.56:406][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.10-00.06.56:409][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.026
+[2024.01.10-00.06.56:409][897]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Dialogue_Box] ([2] browsable assets)...
+[2024.01.10-00.06.56:413][897]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Dialogue_Box.WB_Dialogue_Box]
+[2024.01.10-00.06.56:413][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Dialogue_Box]
+[2024.01.10-00.06.56:413][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Dialogue_Box" FILE="D:/GitHub/VR-Travel/VR_Travel/Saved/Autosaves/Game/UI/WB_Dialogue_Box_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.01.10-00.06.56:416][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Dialogue_Box_Auto9
+[2024.01.10-00.06.56:416][897]LogSavePackage: Moving 'D:/GitHub/VR-Travel/VR_Travel/Saved/WB_Dialogue_Box_Auto90BE0457444AE332F254F9BAC059FBD33.tmp' to 'D:/GitHub/VR-Travel/VR_Travel/Saved/Autosaves/Game/UI/WB_Dialogue_Box_Auto9.uasset'
+[2024.01.10-00.06.56:417][897]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.10-00.07.00:913][911]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2024.01.10-00.07.01:016][911]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=67712
+[2024.01.10-00.07.01:345][912]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7336a677-2960-4db3-8648-5c2cef19c891}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.79
+[2024.01.10-00.07.01:345][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.10-00.07.01:347][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.10-00.07.40:864][640]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.09.46:775][ 65]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.11.55:554][955]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.12.01:003][268]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.12.59:425][575]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.13.00:607][643]LogEditorTransaction: Undo Edit Specified Color
+[2024.01.10-00.13.00:758][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.10-00.13.07:589][ 25]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.13.20:598][766]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.10-00.13.58:462][994]BlueprintLog: New page: Compile WB_Dialogue_Box
+[2024.01.10-00.13.58:504][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.10-00.13.59:192][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-00.13.59:244][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Dialogue_Box" FILE="D:/GitHub/VR-Travel/VR_Travel/Content/UI/WB_Dialogue_Box.uasset" SILENT=true
+[2024.01.10-00.13.59:249][ 30]LogSavePackage: Moving output files for package: /Game/UI/WB_Dialogue_Box
+[2024.01.10-00.13.59:249][ 30]LogSavePackage: Moving 'D:/GitHub/VR-Travel/VR_Travel/Saved/WB_Dialogue_Box70F826FE4FB90198E5078A98AC8DA861.tmp' to 'D:/GitHub/VR-Travel/VR_Travel/Content/UI/WB_Dialogue_Box.uasset'
+[2024.01.10-00.13.59:263][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.02 sec)
+[2024.01.10-00.13.59:272][ 30]AssetCheck: New page: Asset Save: WB_Dialogue_Box
+[2024.01.10-00.13.59:272][ 30]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Dialogue_Box.WB_Dialogue_Box
